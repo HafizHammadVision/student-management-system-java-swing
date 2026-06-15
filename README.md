@@ -58,6 +58,9 @@ Through this project, I practiced:
 * User Login System
 * Advanced UI Design
 
+## Screenshot
+studentManagementSystem.png
+
 ## Author
 
 Hafiz Hammad
