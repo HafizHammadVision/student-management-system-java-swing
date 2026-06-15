@@ -59,7 +59,7 @@ Through this project, I practiced:
 * Advanced UI Design
 
 ## Screenshot
-studentManagementSystem.png
+[studentManagementSystem.png](https://github.com/HafizHammadVision/student-management-system-java-swing/blob/main/StudentManagementSystem.png)
 
 ## Author
 
